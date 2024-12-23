@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "734784983658",
+    "project_id": "vetementia-13017",
+    "storage_bucket": "vetementia-13017.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734784983658:android:f26f6e91de5752c4637013",
+        "android_client_info": {
+          "package_name": "com.nizar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACYXnVJEg5KgIBC_1hOL0MI-SgWnjRiK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,56 @@
+{
+    "hosting": {
+      "public": "public",
+      "ignore": [
+        "firebase.json",
+        "**/.*",
+        "**/node_modules/**"
+      ],
+      "rewrites": [
+        {
+          "source": "**",
+          "destination": "/index.html"
+        }
+      ]
+    },
+    "web": {
+      "apiKey": "AIzaSyCeBXPf8Gni3_AfG6WP8oFZSel3E6mzKkU",
+      "authDomain": "vetementia-13017.firebaseapp.com",
+      "projectId": "vetementia-13017",
+      "storageBucket": "vetementia-13017.firebasestorage.app",
+      "messagingSenderId": "734784983658",
+      "appId": "1:734784983658:web:8565cd4abe9d1644637013",
+      "measurementId": "G-QQ4G3EE440"
+    },
+    "android": {
+      "apiKey": "AIzaSyACYXnVJEg5KgIBC_1hOL0MI-SgWnjRiK0",
+      "appId": "1:734784983658:android:f26f6e91de5752c4637013",
+      "messagingSenderId": "734784983658",
+      "projectId": "vetementia-13017",
+      "storageBucket": "vetementia-13017.firebasestorage.app"
+    },
+    "ios": {
+      "apiKey": "AIzaSyCmowDYfw4BGHgzOrjhHysxRglG7gvg9oA",
+      "appId": "1:734784983658:ios:3799aba04b061cad637013",
+      "messagingSenderId": "734784983658",
+      "projectId": "vetementia-13017",
+      "storageBucket": "vetementia-13017.firebasestorage.app",
+      "iosBundleId": "com.nizar"
+    },
+    "macos": {
+      "apiKey": "AIzaSyCq-HqnhA5gMS4hZN_Kj-pKLU27NLR1zTo",
+      "appId": "1:124193868831:ios:52261dd31dfe16fa88d92a",
+      "messagingSenderId": "124193868831",
+      "projectId": "vetementia",
+      "storageBucket": "vetementia.firebasestorage.app",
+      "iosBundleId": "com.nizar.vetementIa"
+    },
+    "windows": {
+      "apiKey": "AIzaSyBFMLDrHe2MiSC9UpyTZcGsej1_BqLLneo",
+      "appId": "1:124193868831:web:e75ca400086e1a7b88d92a",
+      "messagingSenderId": "124193868831",
+      "projectId": "vetementia",
+      "authDomain": "vetementia.firebaseapp.com",
+      "storageBucket": "vetementia.firebasestorage.app"
+    }
+  }
